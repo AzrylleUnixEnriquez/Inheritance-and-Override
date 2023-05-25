@@ -1,8 +1,9 @@
 package MultiLevelInheritance;
-
+//Display A, B, C - Car, Plane, Boat
 public class DisplayTest {
 
 		public static void main(String[]args) {
+			//Instantiation
 			ToyotaVios beep = new ToyotaVios();
 			U2SpyPlane woosh = new U2SpyPlane();
 			FandangoYacht honk = new FandangoYacht();
