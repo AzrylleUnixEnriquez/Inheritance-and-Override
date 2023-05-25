@@ -12,7 +12,7 @@ public class ToyotaVios extends Vehicle {
 		//super.STOP();
 	}
 
-
+	//method drive
 	public void drive() {
 		System.out.println("Driving A Toyota-Vios");
 		
