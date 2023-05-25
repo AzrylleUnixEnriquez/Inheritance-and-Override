@@ -4,6 +4,7 @@ Create a base class named Vehicle that contains these variables and methods
 - Color
 - Price
 - STOP method
+
 A. create a car sub class for vehicle named ToyotaVios that contains these variables and methods
 -Tire type
 -drive method
