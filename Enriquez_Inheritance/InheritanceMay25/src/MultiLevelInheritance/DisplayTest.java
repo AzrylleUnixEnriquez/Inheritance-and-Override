@@ -7,6 +7,9 @@ public class DisplayTest {
 			ToyotaVios beep = new ToyotaVios();
 			U2SpyPlane woosh = new U2SpyPlane();
 			FandangoYacht honk = new FandangoYacht();
+			
+			//Display inherited Variables
+			
 			//Car
 			System.out.println("Car: " + beep.CarName);
 			System.out.println("Color: " + beep.CARCOLOR);
