@@ -9,6 +9,7 @@ public class FandangoYacht extends Vehicle{
 		System.out.println("Drop the Anchor");
 		//super.STOP();
 	}
+	// method Float
 	public void Float() {
 		
 	System.out.println("Open MainSail and move");
