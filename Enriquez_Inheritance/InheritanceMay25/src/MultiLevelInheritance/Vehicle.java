@@ -1,5 +1,5 @@
 package MultiLevelInheritance;
-
+//base class
 public class Vehicle {
 	
 	String CARSPEED = "170Kmphs";
