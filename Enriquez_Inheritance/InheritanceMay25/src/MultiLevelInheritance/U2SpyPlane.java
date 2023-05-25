@@ -11,6 +11,7 @@ public class U2SpyPlane extends Vehicle {
 		System.out.println("Touch down");
 		//super.STOP();
 	}
+	//method fly
 	public void fly() {
 		System.out.println("Take off");
 	}
