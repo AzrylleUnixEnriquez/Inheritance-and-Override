@@ -5,6 +5,7 @@ public class U2SpyPlane extends Vehicle {
 	String PlaneName = "U-2 Spy Plane";
 	String WingSpan = "31m";
 	
+	@Override
 	public void STOP() {
 		System.out.println("Touch down");
 		//super.STOP();
